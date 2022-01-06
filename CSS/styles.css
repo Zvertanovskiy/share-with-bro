@@ -1,5 +1,5 @@
 /*Обнуление*/
-* {
+/* * {
 	padding: 0;
 	margin: 0;
 	border: 0;
@@ -76,10 +76,11 @@ h5,
 h6 {
 	font-size: inherit;
 	font-weight: 400;
-}
+} */
 /*--------------------*/
 
-.body {
-	background-color: #fff;
+body {
+	background-color: rgb(212, 201, 201);
 	color: chartreuse;
+	font-size: 30px;
 }
